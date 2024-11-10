@@ -1,0 +1,162 @@
+@font-face {
+  font-family: Sweet\ Cherry\ Free;
+  src: url(../fonts/SweetCherryFree/Sweet\ Cherry\ Free.ttf);
+}
+
+@font-face {
+  font-family: Skranji ;
+  src: url(../fonts/skranji/Skranji-Bold.ttf);
+}
+
+@font-face {
+  font-family: Righteous;
+  src: url(../fonts/righteous/Righteous-Regular.ttf);
+}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url(../fonts/poppins/Poppins-Bold.ttf);
+}
+
+
+@font-face {
+  font-family: Poppins-Medium;
+  src: url(../fonts/poppins/Poppins-Medium.ttf);
+}
+
+.a {
+    border: 2px solid whitesmoke;
+    box-shadow: 0px 4px 3px lightgray;
+    color: blue;
+    text-align: center;
+    font-family: Skranji;
+    
+  }
+
+.a a {
+  text-decoration: none;
+}  
+
+#top {
+    text-align: center;
+    font-size: bold;
+    font-size: 35px;
+    font-family: Righteous;
+    color: #8E2DE2;
+}
+
+.table {
+  background-color: white;
+  margin-top: 30px;
+  border: 0;
+  box-shadow: 2px 2px 2px 2px  lightgray;
+}
+
+.alpha {
+    font-size: 80px;
+   margin-left: 70px;
+   font-family: Poppins-Bold;
+    
+}
+
+.small {
+  font-family: monospace;
+  font-size: 40px ;
+  margin-left: 4px;
+}
+
+.for {
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: 40px;
+}
+
+.text {
+font-size: 70px;
+margin-left: 50px;
+font-family: Sweet\ Cherry\ Free;
+color: red;
+
+}
+
+
+.apple {
+  width: 160px;
+  height: 150px;
+  padding: 25px;
+  
+}
+
+
+#img {
+  margin-top: 18px;
+}
+
+
+#sec {
+  border: transparent;
+  width:650px;
+  height: 1250px;
+  margin-top: 50px;
+  border-radius: 10px;
+  background-color: white;
+  text-align: left;
+  padding: 40px;
+}
+
+.box {
+  margin-top: 30px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #000;
+  width: 100%;
+  margin-bottom: 15px;
+  padding-top: 20px;
+}
+
+
+.information {
+  font-size: 18px;
+    margin-right: 12px;
+    font-family: Poppins-Medium; 
+   
+}
+
+.feedback {
+  font-family: Poppins-Medium;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 20px;
+  margin-right: 20px;
+}
+
+.emoji-text span {
+  font-family: Skranji;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 10px;
+  margin-right: 12px;
+}
+
+button {
+  background-color: #000;
+  color: white;
+  padding: 10px;
+  width: 300px;
+  height: 40px;
+  margin-top: 20px;  
+}
+
+#area {
+margin-top: 20px;
+resize: none;
+width:600px;
+height: 150px;
+
+}
+
+#bottom img {
+  width:150px;
+  height: 170px;
+  margin-left: 700px
+}

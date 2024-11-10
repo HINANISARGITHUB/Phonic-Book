@@ -1,0 +1,70 @@
+@font-face {
+    font-family: Righteous;
+    src: url(../fonts/righteous/Righteous-Regular.ttf);
+  }
+
+@font-face {
+    font-family:Satisfy ;
+    src: url(../fonts/satisfy/Satisfy-Regular.ttf);
+}
+
+@font-face {
+    font-family: SweetCheery;
+    src: url(../fonts/SweetCherryFree/Sweet\ Cherry\ Free.otf);
+}
+#main {
+    background-color: white;
+    box-shadow: 2px 2px 2px lightgrey;
+   
+}
+
+#start {
+    padding: 30px;
+}
+
+#first {
+    background-color: #4A00E0;
+    font-family:  Righteous;
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+   padding: 20px;
+    border-bottom-left-radius: 60%;
+    border-bottom-right-radius: 60%;
+    text-align: center;
+}
+
+#second {
+    color: red;
+    font-family: Satisfy;
+    font-size:xx-large;
+    font-weight:900px;
+    text-align: center;
+}
+
+#thired {
+    font-family: SweetCheery;
+    color: #eea11d;
+    font-size: 60px;
+    text-align: center;
+   position: relative;
+   bottom: 90px;
+    
+
+}
+
+#fourth img{
+    width:200px ;
+    height:100px;
+    align-items: center;
+    position: relative;
+    bottom: 125px;
+}
+
+#fifth img{
+    width: 400px;
+    height: 350px;
+    align-items: center;
+    position: relative;
+    bottom: 100px;
+}
